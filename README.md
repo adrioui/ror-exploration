@@ -1,24 +1,12 @@
-# README
+<h1 align="center">Welcome to ror-exploration 👋</h1>
+<p>
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Create a bunch of RESTful API using Ruby on Rails.
 
-Things you may want to cover:
+## Show your support
 
-* Ruby version
+Give a ⭐️ if this project helped you!
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
